@@ -1,0 +1,4 @@
+repository "Rift Domain@aca511d2-34d5-4d39-88fc-c761d974ae4d@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
